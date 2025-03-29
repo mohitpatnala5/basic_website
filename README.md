@@ -46,20 +46,6 @@ I am Mohit Patnala, currently pursuing my Bachelor of Technology in Computer Sci
 - A web browser (Chrome, Firefox, Safari, etc.)
 - A code editor (VS Code, Sublime Text, etc.)
 
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/mohitpatnala/portfolio-website.git
-```
-
-2. Navigate to the project directory
-```bash
-cd portfolio-website
-```
-
-3. Open `index.html` in your web browser
-
 ## Customization
 
 ### Content
@@ -81,7 +67,8 @@ portfolio-website/
 ├── styles.css          # Main stylesheet
 └── README.md          # Project documentation
 ```
-
+## Project link
+link:https://github.com/mohitpatnala5/basic_website
 ## Acknowledgments
 
 - Design inspired by modern web trends
