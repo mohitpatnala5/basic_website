@@ -69,6 +69,8 @@ portfolio-website/
 ```
 ## Project page URL
 link:https://github.com/mohitpatnala5/basic_website
+
+https://roadmap.sh/projects/basic-html-website
 ## Acknowledgments
 
 - Design inspired by modern web trends
