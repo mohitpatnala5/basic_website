@@ -67,7 +67,7 @@ portfolio-website/
 ├── styles.css          # Main stylesheet
 └── README.md          # Project documentation
 ```
-## Project link
+## Project page URL
 link:https://github.com/mohitpatnala5/basic_website
 ## Acknowledgments
 
